@@ -1,0 +1,361 @@
+{
+  "items": [
+    {
+      "description": "Tips and tricks for your projects work anywhere :D",
+      "items": [],
+      "title": "Cross Browser"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sass flex mixin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-01-16T03:14:51Z",
+            "owner": "mastastealth",
+            "repo": "sass-flex-mixin",
+            "stars": 1110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylus flex mixin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-06-06T08:06:13Z",
+            "owner": "differui",
+            "repo": "stylus-flex-mixin",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Preprocessors in action"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flexibility",
+          "description": "metal:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-21T12:39:18Z",
+            "owner": "jonathantneal",
+            "repo": "flexibility",
+            "stars": 4288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-20T21:50:38Z",
+            "owner": "doctyper",
+            "repo": "flexie",
+            "stars": 1087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reflexie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-07-03T23:35:01Z",
+            "owner": "doctyper",
+            "repo": "reflexie",
+            "stars": 247
+          }
+        }
+      ],
+      "title": "Polyfills"
+    },
+    {
+      "description": "Tired of reading? See an interactive presentation and learn flexbox now.",
+      "items": [],
+      "title": "Presentations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sketching with CSS Flexbox Guide by @sfioritto"
+    },
+    {
+      "description": "Have a little help to create their projects :D",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fibonacci",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-15T10:33:49Z",
+            "owner": "maxsteenbergen",
+            "repo": "Fibonacci",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Flexbox snippets for Sublime Text 2/3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-18T22:30:32Z",
+            "owner": "brenopolanski",
+            "repo": "css-flexbox-sublime-snippets",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Flexbox snippets for Atom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-18T23:38:10Z",
+            "owner": "brenopolanski",
+            "repo": "css-flexbox-atom-snippets",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "A list of incredible libraries based on flexbox.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flexboxgrid",
+          "description": "metal:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-10-01T09:36:06Z",
+            "owner": "kristoferjoseph",
+            "repo": "flexboxgrid",
+            "stars": 9310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bem grid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-04-11T20:55:25Z",
+            "owner": "awinogradov",
+            "repo": "sharps",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ginger Grid",
+          "description": "A Flexbox grid framework named after a cute dog.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2025-12-10T17:42:57Z",
+            "owner": "erwstout",
+            "repo": "ginger",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuux",
+          "description": "Fuux is a Flexbox library that uses the same flexbox interface like classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-10-22T21:41:10Z",
+            "owner": "henriquecustodia",
+            "repo": "fuux",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Libraries and Frameworks"
+    },
+    {
+      "description": "Awesome projects about flexbox.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flexbox layout",
+          "description": "FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-04-22T19:22:36Z",
+            "owner": "google",
+            "repo": "flexbox-layout",
+            "stars": 18305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexbugs",
+          "description": "A community-curated list of flexbox issues and cross-browser workarounds for them.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-01-19T22:00:42Z",
+            "owner": "philipwalton",
+            "repo": "flexbugs",
+            "stars": 13545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solved by flexbox",
+          "description": "A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-03T06:36:29Z",
+            "owner": "philipwalton",
+            "repo": "solved-by-flexbox",
+            "stars": 12922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlexLayout for iOS",
+          "description": "FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-08T10:30:35Z",
+            "owner": "layoutBox",
+            "repo": "FlexLayout",
+            "stars": 2130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grid-styled",
+          "description": "Flexbox based responsive ReactJS grid system built with styled-components",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-08-06T15:51:01Z",
+            "owner": "rebassjs",
+            "repo": "grid",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reflexbox",
+          "description": "Responsive React flexbox grid system higher order component.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-01-23T13:31:47Z",
+            "owner": "jxnblk",
+            "repo": "reflexbox",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-flexbox",
+          "description": "Implementation of css flexbox in react with inline styles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-10T17:36:49Z",
+            "owner": "tcoopman",
+            "repo": "react-flexbox",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Post Apocalypse Flexbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-05-29T14:10:16Z",
+            "owner": "afonsopacifer",
+            "repo": "post-apocalypse-flexbox",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flex-box",
+          "description": "A Custom Element to make the basics of flexbox easier to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-11T15:54:34Z",
+            "owner": "potch",
+            "repo": "flex-box",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Featured Projects"
+    },
+    {
+      "description": "Want to contribute? Follow these recommendations.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "MIT License © Afonso Pacifer",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:55:42.798Z",
+    "original_repository": "afonsopacifer/awesome-flexbox",
+    "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
+    "enhanced_repository": "enhansome/enhansome-flexbox",
+    "enhanced_repository_description": null,
+    "title": "Awesome flexbox with stars"
+  }
+}
