@@ -249,7 +249,7 @@
             "last_commit": "2022-12-03T06:36:29Z",
             "owner": "philipwalton",
             "repo": "solved-by-flexbox",
-            "stars": 12922
+            "stars": 12923
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-08T10:30:35Z",
             "owner": "layoutBox",
             "repo": "FlexLayout",
-            "stars": 2130
+            "stars": 2129
           }
         },
         {
@@ -351,7 +351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:55:42.798Z",
+    "last_updated": "2026-08-14T19:48:21.585Z",
     "original_repository": "afonsopacifer/awesome-flexbox",
     "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
     "enhanced_repository": "enhansome/enhansome-flexbox",
