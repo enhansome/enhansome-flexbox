@@ -3,7 +3,7 @@
 [![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/) ⭐ 1,264 | 🐛 4 | 📅 2023-09-07
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,083 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,503 | 🐛 100 | 📅 2026-06-30
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
 > Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) ⭐ 647 | 🐛 2 | 📅 2024-01-15 and [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,647 | 🐛 33 | 🌐 Shell | 📅 2026-07-16.
@@ -181,7 +181,7 @@
 
 *A list of incredible libraries based on flexbox.*
 
-* [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) ⭐ 9,310 | 🐛 62 | 🌐 HTML | 📅 2020-10-01:metal:
+* [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) ⭐ 9,309 | 🐛 62 | 🌐 HTML | 📅 2020-10-01:metal:
 * [Bem grid](https://github.com/bem-incubator/bem-grid) ⚠️ Archived
 * [Ginger Grid](https://github.com/erwstout/ginger/) ⚠️ Archived - A Flexbox grid framework named after a cute dog.
 * [Fuux](https://github.com/henriquecustodia/fuux) ⭐ 9 | 🐛 3 | 🌐 CSS | 📅 2018-10-22 - Fuux is a Flexbox library that uses the same flexbox interface like classes.
@@ -246,4 +246,4 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

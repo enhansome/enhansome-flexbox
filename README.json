@@ -159,7 +159,7 @@
             "last_commit": "2020-10-01T09:36:06Z",
             "owner": "kristoferjoseph",
             "repo": "flexboxgrid",
-            "stars": 9310
+            "stars": 9309
           }
         },
         {
@@ -351,7 +351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:21:21.400Z",
+    "last_updated": "2026-08-16T19:20:36.226Z",
     "original_repository": "afonsopacifer/awesome-flexbox",
     "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
     "enhanced_repository": "enhansome/enhansome-flexbox",
