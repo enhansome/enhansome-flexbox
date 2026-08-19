@@ -1,9 +1,9 @@
 # Awesome flexbox with stars
 
-[![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/) ⭐ 1,264 | 🐛 4 | 📅 2023-09-07
+[![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/) ⭐ 1,263 | 🐛 4 | 📅 2023-09-07
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,772 | 🐛 102 | 📅 2026-08-18
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
 > Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) ⭐ 647 | 🐛 2 | 📅 2024-01-15 and [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,648 | 🐛 36 | 🌐 Shell | 📅 2026-07-16.
@@ -238,11 +238,11 @@
 
 ## Contributing
 
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md) ⭐ 1,264 | 🐛 4 | 📅 2023-09-07.
+Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md) ⭐ 1,263 | 🐛 4 | 📅 2023-09-07.
 
 ## License
 
-[MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) ⭐ 1,264 | 🐛 4 | 📅 2023-09-07 © [Afonso Pacifer](https://afonsopacifer.github.io/)
+[MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) ⭐ 1,263 | 🐛 4 | 📅 2023-09-07 © [Afonso Pacifer](https://afonsopacifer.github.io/)
 
 ***
 
