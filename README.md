@@ -3,7 +3,7 @@
 [![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/) ⭐ 1,264 | 🐛 4 | 📅 2023-09-07
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,370 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
 > Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) ⭐ 647 | 🐛 2 | 📅 2024-01-15 and [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,648 | 🐛 36 | 🌐 Shell | 📅 2026-07-16.
@@ -199,7 +199,7 @@
 * [Flexbox layout](https://github.com/google/flexbox-layout) ⚠️ Archived - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 * [Flexbugs](https://github.com/philipwalton/flexbugs) ⚠️ Archived - A community-curated list of flexbox issues and cross-browser workarounds for them.
 * [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) ⭐ 12,922 | 🐛 38 | 🌐 CSS | 📅 2022-12-03 - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
-* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) ⭐ 2,129 | 🐛 2 | 🌐 Swift | 📅 2026-08-08 - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.
+* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) ⭐ 2,130 | 🐛 2 | 🌐 Swift | 📅 2026-08-08 - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.
 * [grid-styled](https://github.com/jxnblk/grid-styled) ⚠️ Archived - Flexbox based responsive ReactJS grid system built with styled-components
 * [Reflexbox](https://github.com/jxnblk/reflexbox) ⚠️ Archived - Responsive React flexbox grid system higher order component.
 * [React-flexbox](https://github.com/tcoopman/react-flexbox) ⭐ 162 | 🐛 0 | 🌐 JavaScript | 📅 2017-12-10 - Implementation of css flexbox in react with inline styles.
@@ -246,4 +246,4 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

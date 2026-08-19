@@ -2,100 +2,98 @@
   "items": [
     {
       "description": "Tips and tricks for your projects work anywhere :D",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sass flex mixin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9572016,
+                "language": "CSS",
+                "last_commit": "2018-01-16T03:14:51Z",
+                "owner": "mastastealth",
+                "repo": "sass-flex-mixin",
+                "stars": 1110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stylus flex mixin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20555774,
+                "language": "CSS",
+                "last_commit": "2014-06-06T08:06:13Z",
+                "owner": "differui",
+                "repo": "stylus-flex-mixin",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preprocessors in action"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flexibility",
+              "description": "metal:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45703901,
+                "language": "JavaScript",
+                "last_commit": "2022-09-21T12:39:18Z",
+                "owner": "jonathantneal",
+                "repo": "flexibility",
+                "stars": 4288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flexie",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 998363,
+                "language": "JavaScript",
+                "last_commit": "2016-11-20T21:50:38Z",
+                "owner": "doctyper",
+                "repo": "flexie",
+                "stars": 1087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reflexie",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6483765,
+                "language": "JavaScript",
+                "last_commit": "2013-07-03T23:35:01Z",
+                "owner": "doctyper",
+                "repo": "reflexie",
+                "stars": 247
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Polyfills"
+        }
+      ],
       "title": "Cross Browser"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sass flex mixin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2018-01-16T03:14:51Z",
-            "owner": "mastastealth",
-            "repo": "sass-flex-mixin",
-            "stars": 1110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stylus flex mixin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2014-06-06T08:06:13Z",
-            "owner": "differui",
-            "repo": "stylus-flex-mixin",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Preprocessors in action"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flexibility",
-          "description": "metal:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-21T12:39:18Z",
-            "owner": "jonathantneal",
-            "repo": "flexibility",
-            "stars": 4288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flexie",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-11-20T21:50:38Z",
-            "owner": "doctyper",
-            "repo": "flexie",
-            "stars": 1087
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reflexie",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2013-07-03T23:35:01Z",
-            "owner": "doctyper",
-            "repo": "reflexie",
-            "stars": 247
-          }
-        }
-      ],
-      "title": "Polyfills"
-    },
-    {
-      "description": "Tired of reading? See an interactive presentation and learn flexbox now.",
-      "items": [],
-      "title": "Presentations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sketching with CSS Flexbox Guide by @sfioritto"
     },
     {
       "description": "Have a little help to create their projects :D",
@@ -107,6 +105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20801401,
             "language": "JavaScript",
             "last_commit": "2020-01-15T10:33:49Z",
             "owner": "maxsteenbergen",
@@ -121,6 +120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48451650,
             "language": "JavaScript",
             "last_commit": "2019-12-18T22:30:32Z",
             "owner": "brenopolanski",
@@ -135,6 +135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48508724,
             "language": "JavaScript",
             "last_commit": "2019-12-18T23:38:10Z",
             "owner": "brenopolanski",
@@ -155,6 +156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15367575,
             "language": "HTML",
             "last_commit": "2020-10-01T09:36:06Z",
             "owner": "kristoferjoseph",
@@ -169,6 +171,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20094796,
             "language": "CSS",
             "last_commit": "2017-04-11T20:55:25Z",
             "owner": "awinogradov",
@@ -183,6 +186,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48823404,
             "language": "SCSS",
             "last_commit": "2025-12-10T17:42:57Z",
             "owner": "erwstout",
@@ -197,6 +201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75721068,
             "language": "CSS",
             "last_commit": "2018-10-22T21:41:10Z",
             "owner": "henriquecustodia",
@@ -217,6 +222,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58034548,
             "language": "Kotlin",
             "last_commit": "2024-04-22T19:22:36Z",
             "owner": "google",
@@ -231,11 +237,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28704549,
             "language": null,
             "last_commit": "2024-01-19T22:00:42Z",
             "owner": "philipwalton",
             "repo": "flexbugs",
-            "stars": 13544
+            "stars": 13543
           }
         },
         {
@@ -245,6 +252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12512833,
             "language": "CSS",
             "last_commit": "2022-12-03T06:36:29Z",
             "owner": "philipwalton",
@@ -259,11 +267,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94804036,
             "language": "Swift",
             "last_commit": "2026-08-08T10:30:35Z",
             "owner": "layoutBox",
             "repo": "FlexLayout",
-            "stars": 2129
+            "stars": 2130
           }
         },
         {
@@ -273,6 +282,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70867540,
             "language": "JavaScript",
             "last_commit": "2019-08-06T15:51:01Z",
             "owner": "rebassjs",
@@ -287,6 +297,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44027144,
             "language": "JavaScript",
             "last_commit": "2018-01-23T13:31:47Z",
             "owner": "jxnblk",
@@ -301,6 +312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29008373,
             "language": "JavaScript",
             "last_commit": "2017-12-10T17:36:49Z",
             "owner": "tcoopman",
@@ -315,6 +327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43256142,
             "language": null,
             "last_commit": "2016-05-29T14:10:16Z",
             "owner": "afonsopacifer",
@@ -329,6 +342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28928879,
             "language": "JavaScript",
             "last_commit": "2015-05-11T15:54:34Z",
             "owner": "potch",
@@ -338,21 +352,12 @@
         }
       ],
       "title": "Featured Projects"
-    },
-    {
-      "description": "Want to contribute? Follow these recommendations.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "MIT License © Afonso Pacifer",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:27:23.568Z",
+    "last_updated": "2026-08-19T12:27:23.323Z",
     "original_repository": "afonsopacifer/awesome-flexbox",
+    "original_repository_id": 35338369,
     "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
     "enhanced_repository": "enhansome/enhansome-flexbox",
     "enhanced_repository_description": null,
