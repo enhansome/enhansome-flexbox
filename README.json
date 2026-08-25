@@ -161,7 +161,7 @@
             "last_commit": "2020-10-01T09:36:06Z",
             "owner": "kristoferjoseph",
             "repo": "flexboxgrid",
-            "stars": 9307
+            "stars": 9306
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2024-04-22T19:22:36Z",
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18303
+            "stars": 18302
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2022-12-03T06:36:29Z",
             "owner": "philipwalton",
             "repo": "solved-by-flexbox",
-            "stars": 12922
+            "stars": 12921
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:16.972Z",
+    "last_updated": "2026-08-25T19:31:36.177Z",
     "original_repository": "afonsopacifer/awesome-flexbox",
     "original_repository_id": 35338369,
     "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
