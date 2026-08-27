@@ -355,9 +355,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:41:07.354Z",
-    "original_repository": "afonsopacifer/awesome-flexbox",
-    "original_repository_id": 35338369,
+    "last_updated": "2026-08-27T11:37:21.685Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 35338369,
+      "language": null,
+      "last_commit": "2023-09-07T11:46:40Z",
+      "owner": "afonsopacifer",
+      "repo": "awesome-flexbox",
+      "stars": 1263
+    },
     "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
     "enhanced_repository": "enhansome/enhansome-flexbox",
     "enhanced_repository_description": null,
