@@ -227,7 +227,7 @@
             "last_commit": "2024-04-22T19:22:36Z",
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18301
+            "stars": 18300
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:21.685Z",
+    "last_updated": "2026-08-28T02:25:48.422Z",
     "original_repository_info": {
       "archived": false,
       "id": 35338369,
@@ -363,7 +363,7 @@
       "last_commit": "2023-09-07T11:46:40Z",
       "owner": "afonsopacifer",
       "repo": "awesome-flexbox",
-      "stars": 1263
+      "stars": 1264
     },
     "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
     "enhanced_repository": "enhansome/enhansome-flexbox",
