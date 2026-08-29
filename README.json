@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexbox mixins",
+                "homepage": null,
                 "id": 9572016,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-01-16T03:14:51Z",
+                "open_issues": 4,
                 "owner": "mastastealth",
                 "repo": "sass-flex-mixin",
-                "stars": 1108
+                "stars": 1108,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:02.364Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sass-flex-mixin in stylus edition",
+                "homepage": null,
                 "id": 20555774,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-06-06T08:06:13Z",
+                "open_issues": 0,
                 "owner": "differui",
                 "repo": "stylus-flex-mixin",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:02.364Z"
             }
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript polyfill for Flexbox",
+                "homepage": "https://jonathantneal.github.io/flexibility/",
                 "id": 45703901,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-21T12:39:18Z",
+                "open_issues": 43,
                 "owner": "jonathantneal",
                 "repo": "flexibility",
-                "stars": 4288
+                "stars": 4288,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:02.364Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Legacy support for the CSS3 Flexible Box Model",
+                "homepage": "http://flexiejs.com",
                 "id": 998363,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-20T21:50:38Z",
+                "open_issues": 35,
                 "owner": "doctyper",
                 "repo": "flexie",
-                "stars": 1087
+                "stars": 1087,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:02.364Z"
             },
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A grown-up polyfill for a grown-up flexbox.",
+                "homepage": null,
                 "id": 6483765,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-07-03T23:35:01Z",
+                "open_issues": 10,
                 "owner": "doctyper",
                 "repo": "reflexie",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:00:02.364Z"
             }
@@ -110,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexbox page layout composer",
+            "homepage": null,
             "id": 20801401,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-15T10:33:49Z",
+            "open_issues": 0,
             "owner": "maxsteenbergen",
             "repo": "Fibonacci",
-            "stars": 439
+            "stars": 439,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -126,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS Flexbox snippets for Sublime",
+            "homepage": "https://packagecontrol.io/packages/Flexbox%20Snippets",
             "id": 48451650,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-18T22:30:32Z",
+            "open_issues": 1,
             "owner": "brenopolanski",
             "repo": "css-flexbox-sublime-snippets",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -142,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS Flexbox snippets for Atom",
+            "homepage": "https://atom.io/packages/flexbox-snippets",
             "id": 48508724,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-18T23:38:10Z",
+            "open_issues": 0,
             "owner": "brenopolanski",
             "repo": "css-flexbox-atom-snippets",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         }
@@ -164,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grid based on CSS3 flexbox",
+            "homepage": "http://flexboxgrid.com",
             "id": 15367575,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-01T09:36:06Z",
+            "open_issues": 62,
             "owner": "kristoferjoseph",
             "repo": "flexboxgrid",
-            "stars": 9305
+            "stars": 9305,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -180,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Modular grid powered by Lost and BEM",
+            "homepage": "http://theprotein.github.io/sharps/gh-pages/index.html",
             "id": 20094796,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-04-11T20:55:25Z",
+            "open_issues": 10,
             "owner": "awinogradov",
             "repo": "sharps",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -196,12 +246,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A minimal flexbox grid system named after a cute dog.",
+            "homepage": "https://gingergrid.firebaseapp.com/",
             "id": 48823404,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2025-12-10T17:42:57Z",
+            "open_issues": 7,
             "owner": "erwstout",
             "repo": "ginger",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "flexbox-grid",
+              "framework",
+              "ginger-grid",
+              "grid-layout",
+              "grid-system"
+            ]
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -212,12 +273,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :cyclone: :sunglasses: flexbox library to create amazing layouts ",
+            "homepage": null,
             "id": 75721068,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-10-22T21:41:10Z",
+            "open_issues": 3,
             "owner": "henriquecustodia",
             "repo": "fuux",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "css",
+              "flexbox",
+              "flexbox-library"
+            ]
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         }
@@ -234,12 +304,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flexbox for Android ",
+            "homepage": null,
             "id": 58034548,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T19:22:36Z",
+            "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18300
+            "stars": 18300,
+            "topics": [
+              "android",
+              "android-library",
+              "flexbox"
+            ]
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -250,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A community-curated list of flexbox issues and cross-browser workarounds for them.",
+            "homepage": null,
             "id": 28704549,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-01-19T22:00:42Z",
+            "open_issues": 88,
             "owner": "philipwalton",
             "repo": "flexbugs",
-            "stars": 13542
+            "stars": 13542,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -266,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.",
+            "homepage": "https://philipwalton.github.io/solved-by-flexbox/",
             "id": 12512833,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-12-03T06:36:29Z",
+            "open_issues": 38,
             "owner": "philipwalton",
             "repo": "solved-by-flexbox",
-            "stars": 12918
+            "stars": 12918,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -282,12 +371,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.",
+            "homepage": null,
             "id": 94804036,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-08T10:30:35Z",
+            "open_issues": 2,
             "owner": "layoutBox",
             "repo": "FlexLayout",
-            "stars": 2132
+            "stars": 2132,
+            "topics": [
+              "css-flexbox",
+              "flex-container",
+              "flex-items",
+              "flex-layout",
+              "flexbox",
+              "flexbox-container",
+              "flexbox-layout",
+              "flexbox-properties",
+              "ios",
+              "ios-lib",
+              "ios-swift",
+              "ios-ui",
+              "layout",
+              "layout-engine",
+              "swift",
+              "swift-3",
+              "swift-framework",
+              "yoga"
+            ]
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -298,12 +411,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This package has moved and renamed",
+            "homepage": "https://rebassjs.org/reflexbox",
             "id": 70867540,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-08-06T15:51:01Z",
+            "open_issues": 0,
             "owner": "rebassjs",
             "repo": "grid",
-            "stars": 2025
+            "stars": 2025,
+            "topics": [
+              "css",
+              "css-in-js",
+              "emotion",
+              "flexbox",
+              "grid",
+              "layout",
+              "margin",
+              "padding",
+              "react",
+              "responsive",
+              "styled-components",
+              "styled-system"
+            ]
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -314,12 +445,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to https://rebassjs.org",
+            "homepage": null,
             "id": 44027144,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-23T13:31:47Z",
+            "open_issues": 0,
             "owner": "jxnblk",
             "repo": "reflexbox",
-            "stars": 1347
+            "stars": 1347,
+            "topics": [
+              "css-in-js",
+              "flexbox",
+              "grid",
+              "grid-component",
+              "react",
+              "react-component"
+            ]
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -330,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React flexbox implementation",
+            "homepage": null,
             "id": 29008373,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-12-10T17:36:49Z",
+            "open_issues": 0,
             "owner": "tcoopman",
             "repo": "react-flexbox",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -346,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":construction: work in progress.",
+            "homepage": null,
             "id": 43256142,
             "language": null,
+            "license": "MIT",
             "last_commit": "2016-05-29T14:10:16Z",
+            "open_issues": 1,
             "owner": "afonsopacifer",
             "repo": "post-apocalypse-flexbox",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         },
@@ -362,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Custom Element to aid usage of flexbox",
+            "homepage": null,
             "id": 28928879,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-05-11T15:54:34Z",
+            "open_issues": 0,
             "owner": "potch",
             "repo": "flex-box",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
         }
@@ -376,15 +534,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:00:02.364Z",
+    "last_updated": "2026-08-29T04:32:18.587Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
+      "homepage": null,
       "id": 35338369,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-09-07T11:46:40Z",
+      "open_issues": 4,
       "owner": "afonsopacifer",
       "repo": "awesome-flexbox",
-      "stars": 1264
+      "stars": 1264,
+      "topics": [
+        "awesome",
+        "css",
+        "css-flexbox",
+        "css3",
+        "flexbox",
+        "flexbox-grid",
+        "flexbox-layout",
+        "hacktoberfest",
+        "hacktoberfest2022",
+        "w3c-specification"
+      ]
     },
     "original_repository_sha": "e734f8d85a3999a324abe48776b699964989b359",
     "enhanced_repository": "enhansome/enhansome-flexbox",
