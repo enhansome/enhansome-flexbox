@@ -18,7 +18,8 @@
                 "owner": "mastastealth",
                 "repo": "sass-flex-mixin",
                 "stars": 1108
-              }
+              },
+              "first_seen": "2026-08-29T02:00:02.364Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "differui",
                 "repo": "stylus-flex-mixin",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:00:02.364Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "jonathantneal",
                 "repo": "flexibility",
                 "stars": 4288
-              }
+              },
+              "first_seen": "2026-08-29T02:00:02.364Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "doctyper",
                 "repo": "flexie",
                 "stars": 1087
-              }
+              },
+              "first_seen": "2026-08-29T02:00:02.364Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "doctyper",
                 "repo": "reflexie",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-29T02:00:02.364Z"
             }
           ],
           "description": null,
@@ -111,7 +116,8 @@
             "owner": "maxsteenbergen",
             "repo": "Fibonacci",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -126,7 +132,8 @@
             "owner": "brenopolanski",
             "repo": "css-flexbox-sublime-snippets",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -141,7 +148,8 @@
             "owner": "brenopolanski",
             "repo": "css-flexbox-atom-snippets",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         }
       ],
       "title": "Tools"
@@ -161,8 +169,9 @@
             "last_commit": "2020-10-01T09:36:06Z",
             "owner": "kristoferjoseph",
             "repo": "flexboxgrid",
-            "stars": 9306
-          }
+            "stars": 9305
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -177,7 +186,8 @@
             "owner": "awinogradov",
             "repo": "sharps",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -192,7 +202,8 @@
             "owner": "erwstout",
             "repo": "ginger",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -207,7 +218,8 @@
             "owner": "henriquecustodia",
             "repo": "fuux",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         }
       ],
       "title": "Libraries and Frameworks"
@@ -228,7 +240,8 @@
             "owner": "google",
             "repo": "flexbox-layout",
             "stars": 18300
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -243,7 +256,8 @@
             "owner": "philipwalton",
             "repo": "flexbugs",
             "stars": 13542
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -258,7 +272,8 @@
             "owner": "philipwalton",
             "repo": "solved-by-flexbox",
             "stars": 12918
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -273,7 +288,8 @@
             "owner": "layoutBox",
             "repo": "FlexLayout",
             "stars": 2132
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -288,7 +304,8 @@
             "owner": "rebassjs",
             "repo": "grid",
             "stars": 2025
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -303,7 +320,8 @@
             "owner": "jxnblk",
             "repo": "reflexbox",
             "stars": 1347
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -318,7 +336,8 @@
             "owner": "tcoopman",
             "repo": "react-flexbox",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -333,7 +352,8 @@
             "owner": "afonsopacifer",
             "repo": "post-apocalypse-flexbox",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         },
         {
           "node_type": "item",
@@ -348,14 +368,15 @@
             "owner": "potch",
             "repo": "flex-box",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:00:02.364Z"
         }
       ],
       "title": "Featured Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:25:48.422Z",
+    "last_updated": "2026-08-29T02:00:02.364Z",
     "original_repository_info": {
       "archived": false,
       "id": 35338369,
