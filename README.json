@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Sass flex mixin",
-              "description": null,
+              "description": "mastastealth/sass-flex-mixin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Stylus flex mixin",
-              "description": null,
+              "description": "differui/stylus-flex-mixin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "Flexie",
-              "description": null,
+              "description": "doctyper/flexie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "Reflexie",
-              "description": null,
+              "description": "doctyper/reflexie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -131,7 +131,7 @@
         {
           "node_type": "item",
           "title": "Fibonacci",
-          "description": null,
+          "description": "maxsteenbergen/Fibonacci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -152,7 +152,7 @@
         {
           "node_type": "item",
           "title": "CSS Flexbox snippets for Sublime Text 2/3",
-          "description": null,
+          "description": "brenopolanski/css-flexbox-sublime-snippets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -173,7 +173,7 @@
         {
           "node_type": "item",
           "title": "CSS Flexbox snippets for Atom",
-          "description": null,
+          "description": "brenopolanski/css-flexbox-atom-snippets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Bem grid",
-          "description": null,
+          "description": "awinogradov/sharps",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -377,7 +377,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-30T00:49:23Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "layoutBox",
             "repo": "FlexLayout",
             "stars": 2131,
@@ -490,7 +490,7 @@
         {
           "node_type": "item",
           "title": "Post Apocalypse Flexbox",
-          "description": null,
+          "description": "afonsopacifer/post-apocalypse-flexbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:49:34.041Z",
+    "last_updated": "2026-10-03T04:46:25.923Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
