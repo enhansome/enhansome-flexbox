@@ -213,7 +213,7 @@
             "open_issues": 62,
             "owner": "kristoferjoseph",
             "repo": "flexboxgrid",
-            "stars": 9294,
+            "stars": 9293,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
@@ -313,7 +313,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18289,
+            "stars": 18287,
             "topics": [
               "android",
               "android-library",
@@ -359,7 +359,7 @@
             "open_issues": 38,
             "owner": "philipwalton",
             "repo": "solved-by-flexbox",
-            "stars": 12907,
+            "stars": 12906,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
@@ -377,7 +377,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-30T00:49:23Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "layoutBox",
             "repo": "FlexLayout",
             "stars": 2131,
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:27:14.802Z",
+    "last_updated": "2026-10-08T23:38:46.096Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
@@ -546,7 +546,7 @@
       "open_issues": 4,
       "owner": "afonsopacifer",
       "repo": "awesome-flexbox",
-      "stars": 1265,
+      "stars": 1267,
       "topics": [
         "awesome",
         "css",
