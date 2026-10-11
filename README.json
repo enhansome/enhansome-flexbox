@@ -380,7 +380,7 @@
             "open_issues": 1,
             "owner": "layoutBox",
             "repo": "FlexLayout",
-            "stars": 2131,
+            "stars": 2132,
             "topics": [
               "css-flexbox",
               "flex-container",
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:14:55.023Z",
+    "last_updated": "2026-10-11T22:40:55.987Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
@@ -546,7 +546,7 @@
       "open_issues": 4,
       "owner": "afonsopacifer",
       "repo": "awesome-flexbox",
-      "stars": 1267,
+      "stars": 1266,
       "topics": [
         "awesome",
         "css",
