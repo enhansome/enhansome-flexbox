@@ -420,7 +420,7 @@
             "open_issues": 0,
             "owner": "rebassjs",
             "repo": "grid",
-            "stars": 2023,
+            "stars": 2025,
             "topics": [
               "css",
               "css-in-js",
@@ -454,7 +454,7 @@
             "open_issues": 0,
             "owner": "jxnblk",
             "repo": "reflexbox",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "css-in-js",
               "flexbox",
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:08:01.443Z",
+    "last_updated": "2026-10-13T23:11:40.252Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
