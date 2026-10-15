@@ -313,7 +313,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18288,
+            "stars": 18291,
             "topics": [
               "android",
               "android-library",
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:03:31.570Z",
+    "last_updated": "2026-10-15T21:57:26.467Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
