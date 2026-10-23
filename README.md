@@ -3,10 +3,10 @@
 [![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,139 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,625 | 🐛 105 | 📅 2026-09-02
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
-> Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) ⭐ 646 | 🐛 2 | 📅 2024-01-15 and [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,657 | 🐛 69 | 🌐 Shell | 📅 2026-07-16.
+> Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) ⭐ 646 | 🐛 2 | 📅 2024-01-15 and [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,658 | 🐛 69 | 🌐 Shell | 📅 2026-07-16.
 
 ## Table of Contents
 
@@ -164,7 +164,7 @@
 
 *Have a little help to create their projects :D*
 
-* [Fibonacci](https://github.com/maxsteenbergen/Fibonacci) ⭐ 439 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-15
+* [Fibonacci](https://github.com/maxsteenbergen/Fibonacci) ⭐ 438 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-15
 * [CSS Flexbox snippets for Sublime Text 2/3](https://github.com/brenopolanski/css-flexbox-sublime-snippets) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2019-12-18
 * [CSS Flexbox snippets for Atom](https://github.com/brenopolanski/css-flexbox-atom-snippets) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-18
 * [Build with Flexbox](http://flexbox.buildwithreact.com/)
@@ -246,4 +246,4 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
