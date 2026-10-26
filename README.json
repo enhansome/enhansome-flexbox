@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:28:09.849Z",
+    "last_updated": "2026-10-26T23:02:06.298Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
@@ -546,7 +546,7 @@
       "open_issues": 4,
       "owner": "afonsopacifer",
       "repo": "awesome-flexbox",
-      "stars": 1264,
+      "stars": 1265,
       "topics": [
         "awesome",
         "css",
