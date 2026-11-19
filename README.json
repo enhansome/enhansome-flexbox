@@ -213,7 +213,7 @@
             "open_issues": 62,
             "owner": "kristoferjoseph",
             "repo": "flexboxgrid",
-            "stars": 9290,
+            "stars": 9291,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
@@ -338,7 +338,7 @@
             "open_issues": 88,
             "owner": "philipwalton",
             "repo": "flexbugs",
-            "stars": 13521,
+            "stars": 13523,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
@@ -359,7 +359,7 @@
             "open_issues": 38,
             "owner": "philipwalton",
             "repo": "solved-by-flexbox",
-            "stars": 12904,
+            "stars": 12905,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:02.364Z"
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:29:47.969Z",
+    "last_updated": "2026-11-19T00:58:02.590Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.",
